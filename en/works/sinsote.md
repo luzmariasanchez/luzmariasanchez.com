@@ -1,6 +1,4 @@
 ---
-offline: true
-private: false
 title: Sinsonte
 description: sinsonte
 image: 

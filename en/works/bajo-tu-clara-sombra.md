@@ -1,6 +1,4 @@
 ---
-offline: true
-private: false
 title: bajo [tu] clara sombra
 description: bajo [tu] clara sombra
 image: 

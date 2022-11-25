@@ -1,6 +1,4 @@
 ---
-offline: true
-private: false
 title: detritus
 description: detritus
 image: 

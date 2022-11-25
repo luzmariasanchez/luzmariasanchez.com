@@ -1,6 +1,4 @@
 ---
-offline: true
-private: false
 title: Untitled [Planes]
 description: Untitled [Planes]
 image: 
