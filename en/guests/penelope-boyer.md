@@ -1,0 +1,7 @@
+---
+title: Penelope Boyer
+from: United State
+job: Land Heritage Institute
+---
+
+Penelope Boyer, Ph.D., is a San Antonio-based writer currently at work in a book length piece of feminist memo-mythic auto-fiction. Her book, My Great High-Roofed House ~ Homer's Penelope... was published by Atropos Press (New York & Dresden) in 2012, treats, in part, Homer's Penelope as a tale of early technology. Boyer has worked at Theatre Communications Group (New York, NY), the National Endowment for the Arts and the National Association of Artists' Organizations (Washington, DC) and has consulted for many U.S. arts organizations. She was assigned one of the first Arts Wire email addresses in 1991 and was an early editor of their online arts new digest (1994-95)--one of the first national special-interest internet networks and digital newsweeklies, a project of the New York Foundation for the Arts. She became something of a Johnny Appleseed for the national nonprofit arts community by proselytizing, prophesying and promoting email and the internet throughout the country well before many believed in such things--and is now doing something similar with Land Art Generators--public art that creates renewable energy. She has served as producer and art director for the world’s first Solar Mural artworks. Her hyper-linked c.v. can be found at www.penelopeboyer.com
