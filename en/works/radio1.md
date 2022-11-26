@@ -1,7 +1,7 @@
 ---
 title: Radio1
 description: Radio1
-image: http://luzmariasanchez.com/wp-content/uploads/2014/10/radio1_vi01.jpg
+image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/radio1_vi01.jpg
 video: 
 start: 1997
 end: 1997
@@ -20,7 +20,7 @@ sponsors:
 works:
 
 pictures:
- 
+ - https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/radio1_vi01.jpg
 ---
 
 “Suddenly there was the possibility to say anything to everyone, but opon reflection there was nothing to be said”.

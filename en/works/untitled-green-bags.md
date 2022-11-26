@@ -1,24 +1,25 @@
 ---
 title: Untitled [Doppler]
 description: Untitled [Doppler]
-image: http://luzmariasanchez.com/wp-content/uploads/2014/10/greenbags_vi01.jpg
+image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/greenbags_vi01.jpg
 video: 
 start: 2000
 end: 2000
 info: "100 plastic bags, 100 wood sticks.
 Dimensions: variable."
-place: centro-cultural-casa-vallarta
+place: braziers-park
 categorys:
  - artworks
 tags:
- - multi-channel
- - sound
  - installation
 sponsors:
 
 works:
 
 pictures:
+- https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/greenbags_vi01.jpg
+- https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/greenbags_vi02.jpg
+- https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/greenbags_vi03.jpg
  
 ---
 
