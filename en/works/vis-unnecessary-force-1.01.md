@@ -1,14 +1,15 @@
 ---
-title: Vis. [un]necessary force_1
-description: (V. [u]nf_1)
+title: Vis. [un]necessary force_1.01
+description: (V. [u]nf_1.01)
 image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/vis1-1.jpg
 video: https://www.youtube.com/watch?v=rB-xZ5NqTYE
 start: 2014
 end: 2015
-info: "74 portable digital speakers shoot gun MK-A1, 74 Micro-SD cards, 74 mp3 sounds, MDF modular structure.
-Dimensions: variable.
-Duration: undetermined."
-place: tamaulipas-contemporary-art-museum
+info: "Interactive, participatory, multimedia installation.
+100 portable digital speakers in the shape of a Caracal 9mm pistol [white PLA 3D prints], 100 Micro-SD cards, 100 mp3 sounds, texts, map, variable modular structure. 
+Dimensions: variable. 
+Duration: undetermined"
+place: zkm-center-for-art-and-media-karlsruhe
 categorys:
  - artworks
 tags:
@@ -16,12 +17,10 @@ tags:
  - sound
  - installation
  - sculpture
-
+ - 3d-print
 sponsors:
  - sistema-nacional-de-creadores-de-arte
 works:
-  - vis-unnecessary-force-1.01
-  - vis-unnecessary-force-1_
   - vis-unnecessary-force-3
   - vis-unnecessary-force-4
   - vis-unnecessary-force-2
