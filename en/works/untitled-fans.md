@@ -1,7 +1,7 @@
 ---
 title: Spurs vs Pistons
 description: Spurs vs Pistons
-image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/fans_vi01.jpg
+image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/spursvspistons.png
 video: 
 start: 2002
 end: 2002
