@@ -5,9 +5,9 @@ image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/sp
 video: 
 start: 2002
 end: 2002
-info: "Four floor fans.
-Dimensions: variable.
-Duration: undetermined."
+info: "4 ventiladores a piso.
+Dimensiones: variable.
+Duración: indeterminado."
 place: muca-roma
 categorys:
  - artworks
@@ -23,7 +23,7 @@ pictures:
 - https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/fans_vi02.jpg
 ---
 
-This sound installation focuses on concepts of sound and space that exist independently of mechanical audio (digital or analogue). Installed within a small gallery at the MUCA Roma (the Museo de Ciencias y Arte) as part of the International Sound Festival of Mexico City, four medium floor fans were attached to the walls, each facing the other. Emanating from the piece, in addition to a continuous breeze, was sound: the sound of the fan blades, the sound of the windy atmosphere created by the fans, and the sound from the various ways the atmosphere was penetrated by the audience.
+Esta instalación sonora se centra en conceptos de sonido y espacio que existen independientemente del audio mecánico (digital o analógico). Instalado dentro de una pequeña galería en el MUCA Roma (Museo de Ciencias y Arte) como parte del Festival Internacional de Sonido de la Ciudad de México, cuatro ventiladores de piso medianos fueron fijados a las paredes, uno frente al otro. Emanando de la pieza, además de una brisa continua, había sonido: el sonido de las aspas del ventilador, el sonido de la atmósfera ventosa creada por los ventiladores y el sonido de las diversas formas en que la audiencia penetraba en la atmósfera.
 
  
 

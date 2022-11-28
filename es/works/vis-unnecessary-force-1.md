@@ -1,13 +1,13 @@
 ---
-title: Vis. [un]necessary force_1
-description: (V. [u]nf_1)
+title: Vis. Fuerza[in]necesaria_1
+description: (V.F[i]n_1)
 image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/vis1-1.jpg
 video: https://www.youtube.com/watch?v=rB-xZ5NqTYE
 start: 2014
 end: 2015
-info: "74 portable digital speakers shoot gun MK-A1, 74 Micro-SD cards, 74 mp3 sounds, MDF modular structure.
-Dimensions: variable.
-Duration: undetermined."
+info: "74 dispositivos sonoros digitales en forma de pistola MK-A1, 74 tarjetas micro-SD, 74 sonidos en mp3, estructura módular de MDF.
+Dimensiones: variable.
+Duración: indeterminado."
 place: tamaulipas-contemporary-art-museum
 categorys:
  - artworks
@@ -36,10 +36,10 @@ pictures:
  - https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/vis1-9.jpg
 ---
 
-V. [u]nf_1 is a multichannel sound sculpture/installation.<!--more-->  The title is a sort of acronym in Spanish; it means Vis. [Un]necessary force. It is the first of the series, hence the number 1. V. [u]nf_1  addresses the subject of violence from the citizen’s perspective. Since media is not covering everyday experiences of violence, people flock to the arena offered by social networks, and share their own sounds and images –the ones that communicate their particular experiences within this context of explicit violence. V. [u]nf_1  is assembled using 74 audio players gun-shaped, that build a large format sound-texture composed of the same number of acoustic logs: shootings recorded by citizens caught in confrontations between law enforcement and organized crime in Mexico.
+V. F[i]n_1 es una escultura/instalación sonora multicanal.<!--más--> El título es una especie de acrónimo en español; significa Vis. Fuerza [in]necesaria. Es el primero de la serie, de ahí el número V. F[i]n_1 aborda el tema de la violencia desde la perspectiva ciudadana. Dado que los medios no están cubriendo las experiencias cotidianas de violencia, las personas acuden al espacio que ofrecen las redes sociales y comparten sus propios sonidos e imágenes, los que comunican sus experiencias particulares dentro de este contexto de violencia explícita. V. F[i]n_1 se ensambla utilizando 74 reproductores de audio con forma de pistola, que construyen una textura de sonido de gran formato compuesta por la misma cantidad de registros acústicos: tiroteos registrados por ciudadanos atrapados en enfrentamientos entre la policía y el crimen organizado en México.
 
-V. [u]nf_1  consists of 74 independent audio channels, and the sound tracks are played individually on each of these speakers. At the end of the day and as the batteries run out of charge, speakers/guns go off gradually so the circle of operation/sound non-operation/silence is restarted.
+V. F[i]n_1 consta de 74 canales de audio independientes y las pistas de sonido se reproducen individualmente en cada uno de estos altavoces. Al final del día y a medida que las baterías se agotan, los parlantes/pistolas se apagan gradualmente para que se reinicie el círculo de operación/no operación de sonido/silencio.
 
-The audio tracks that integrate this sound installation/sculpture were taken from different videos available at the YouTube site. Civilians in the middle of a cross fire caught in-camera this “balacera” or shooting, and uploaded these files making them public.
+Las pistas de audio que integran esta instalación/escultura sonora fueron extraídas de diferentes videos disponibles en el sitio de YouTube. Civiles en medio de un fuego cruzado captaron en cámara esta “balacera” o tiroteo, y subieron estos archivos haciéndolos públicos.
 
-V. [u]nf_1  won the First Prize of the Bienal de las Fronteras. Selection committee: María del Carmen Aguirre Treviño (Mexico), Leonor Amarante (Brazil), Julia P. Herzberg (USA), Guillermo Santamarina (Mexico), Emiliano Valdés (South Korea / Colombia).
+V. F[i]n_1 ganó el Primer Premio de la Bienal de las Fronteras. Comité de selección: María del Carmen Aguirre Treviño (México), Leonor Amarante (Brasil), Julia P. Herzberg (EEUU), Guillermo Santamarina (México), Emiliano Valdés (Corea del Sur/Colombia).

@@ -30,7 +30,7 @@ pictures:
 - https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/ppv_si11.jpg
 ---
 
-During a three month art residency offered by the Círculo de Bellas Artes de Madrid, sound and video recordings were made throughout the Basque Country. The sound recordings were edited as part of a sound bank to be used in the media lab at ARTELEKU. The second phase of this project was been enacted in which several sound artists were invited by Xabier Erkizia (Arteleku Audiolab) to create new sound works using this sound recordings: RE MAPA. A third project followed up later, giving place to an interactive sound map of the Basque Country (www.soinumapa.net).
+Durante una residencia artística de tres meses ofrecida por el Círculo de Bellas Artes de Madrid, se realizaron grabaciones de sonido y vídeo por todo el País Vasco. Las grabaciones de sonido fueron editadas como parte de un banco de sonido para ser utilizado en el laboratorio de medios de ARTELEKU. Se llevó a cabo la segunda fase de este proyecto en el que varios artistas sonoros fueron invitados por Xabier Erkizia (Arteleku Audiolab) para crear nuevas obras sonoras a partir de estas grabaciones sonoras: RE MAPA. Un tercer proyecto siguió más tarde, dando lugar a un mapa sonoro interactivo del País Vasco (www.soinumapa.net).
 
  
 

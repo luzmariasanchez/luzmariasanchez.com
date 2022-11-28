@@ -5,9 +5,9 @@ image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/tr
 video: 
 start: 2001
 end: 2001
-info: "Video Installation, stereophonic sound.
-Dimensions: variable.
-Duration: 4:20 minutes."
+info: "Instalación de video, sonido estereofónico.
+Dimensiones: variable.
+Duración: 4:20 minutos."
 place:
 categorys:
  - artworks
@@ -26,7 +26,7 @@ pictures:
 - https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/tractor_ds03.jpg
 ---
 
-Created during a workshop in the Montesquieu Mountains near the city of Vic, Spain, and under the tutorship of artist Santiago Sierra, the image and sound reveal a macro view of a John Deere tractor moving back and forth in its duty to cut the grass. The sound and video installation seeks to overwhelm the viewer through the large-scale projection and the high levels of sound. Both the video and audio were recorded up-close, expanding and enclosing individual elements of this redundant mechanical activity in the countryside.
+Creado durante un taller en las montañas de Montesquieu, cerca de la ciudad de Vic, España, y bajo la tutoría del artista Santiago Sierra, la imagen y el sonido revelan una vista macro de un tractor John Deere moviéndose hacia adelante y hacia atrás en su tarea de cortar el césped. La instalación de sonido y video busca abrumar al espectador a través de la proyección a gran escala y los altos niveles de sonido. Tanto el video como el audio fueron grabados de cerca, expandiendo y encerrando elementos individuales de esta actividad mecánica redundante en el campo.
 
  
 

@@ -1,6 +1,6 @@
 ---
 title: WRO Biennale 2019
-image: 
+image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/wro-bienal.png
 start: 2019
 place: wro-art-center
 categorys:

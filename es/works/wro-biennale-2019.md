@@ -1,6 +1,6 @@
 ---
 title: WRO Biennale 2019
-image: 
+image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/wro-bienal.png
 start: 2019
 place: wro-art-center
 categorys:
@@ -9,10 +9,10 @@ works:
 - vis-unnecessary-force-1.01
 ---
 
-On its 30th anniversary, the WRO Biennale, Poland’s largest show of international contemporary art<!--more-->, which commenced as the International Sound Basis Visual Art Festival in 1989 and has explored the development of communication tools ever since, offers a critical scrutiny of processes unfolding in culture, communication, and society by examining the CZYNNIK LUDZKI / HUMAN ASPECT in a post-technological perspective.
+En su 30 aniversario, la Bienal WRO, la muestra de arte contemporáneo internacional más grande de Polonia<!--más-->, que comenzó como el Festival Internacional de Artes Visuales de Base Sonora en 1989 y ha explorado el desarrollo de herramientas de comunicación desde entonces, ofrece una escrutinio crítico de los procesos que se desarrollan en la cultura, la comunicación y la sociedad mediante el examen del CZYNNIK LUDZKI / ASPECTO HUMANO en una perspectiva postecnológica.
 
-The anniversary edition is an opportunity for a critical review of the last thirty years. Over this period, both art and media technologies have undergone a veritably stupendous transformation. The WRO Biennale has always been swift to respond to these changes by presenting to Polish audiences not only innovative strategies and works of artists, but also state-of-the-art technologies and devices largely inaccessible to the general public.
+La edición aniversario es una oportunidad para una revisión crítica de los últimos treinta años. Durante este período, tanto el arte como las tecnologías de los medios han experimentado una transformación verdaderamente estupenda. La Bienal de la WRO siempre ha respondido rápidamente a estos cambios presentando al público polaco no solo estrategias innovadoras y obras de artistas, sino también tecnologías y dispositivos de última generación en gran medida inaccesibles para el público en general.
 
-To showcase and publicize this process in a variety of forms and with a strong critical investment is one of the major and most daunting conceptual, curatorial, and promotional challenges of this year’s edition of the Biennale.
+Mostrar y publicitar este proceso en una variedad de formas y con una fuerte inversión crítica es uno de los principales y más abrumadores desafíos conceptuales, curatoriales y promocionales de la edición de este año de la Bienal.
 
-The Biennale will feature special invitation projects and a varied set of works selected from among more than 1,700 submissions from across the world. Around 100 works will explore the complexities inherent in the current relations between the human and the technological, with the human as an initiator, a recipient and, sometimes, a victim of these mutating interplays.
+La Bienal contará con proyectos de invitación especial y un conjunto variado de obras seleccionadas entre más de 1700 presentaciones de todo el mundo. Alrededor de 100 obras explorarán las complejidades inherentes a las relaciones actuales entre lo humano y lo tecnológico, con el ser humano como iniciador, receptor y, a veces, víctima de estas interacciones mutantes.

@@ -1,11 +1,11 @@
 ---
-title: Vis. [un]necessary force_4
-description: (V. [u]nf_4)
+title: Vis. Fuerza[in]necesaria_4
+description: (V.F[i]n_4)
 image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/vis4-4.jpg
 video: https://www.youtube.com/watch?v=rB-xZ5NqTYE
 start: 2018
 end: 2021
-info: "8 sound-monitors, 2 subwoofers, digital interface, computer, modem, tablet, projector, digital sound + texts, 5 steel tools in ‘T’ shape."
+info: "8 altavoces de sonido, 2 subwoofers, interfaz digital, computadora, modem, tablet, proyector,sonido digital + textos, 5 varillas de metal en forma de ‘T’."
 place: contemporary-art-university-museum-muac
 categorys:
  - artworks
@@ -21,6 +21,6 @@ works:
   - vis-unnecessary-force-3
 ---
 
-V.[u]nf_4 addresses the subject of violence in Mexico from the citizen’s perspective<!--more-->, as it is part of a larger research-creation project: Vis. [un]necessary force. In Mexico authorities admitted that nearly 62,000 people had “vanished since the start of its catastrophic war on drugs in 2006.” (Phillips, 2020) V.[u]nf_4 presents a corpus of sounds taken from the activities of Las Rastreadoras de El Fuerte, or Trackers of El Fuerte, a group of civilians, mostly women, that search in the desert for clandestine graves, in the outskirts of Los Mochis, in the northern state of Sinaloa, in Mexico. Noises come from recordings made during one of the journeys of Las Rastreadoras (February 2019). The strata of sounds of V.[u]nf_4 allude to different moments of this expedition. Rastreadoras’ voices through their daily interaction, their steps on the ground, and the sounds of their main activity: to dig in the open field to try to find the remains of their loved ones, victims of forced disappearance.
+V.F[i]n_4 aborda el tema de la violencia en México desde la mirada ciudadana<!--más-->, ya que forma parte de un proyecto de investigación-creación más amplio: Vis. fuerza [in]necesaria. En México, las autoridades admitieron que casi 62.000 personas habían “desaparecido desde el comienzo de su catastrófica guerra contra las drogas en 2006”. (Phillips, 2020) V.F[i]n_4 presenta un corpus de sonidos extraídos de las actividades de Las Rastreadoras de El Fuerte, un grupo de civiles, en su mayoría mujeres, que buscan en el desierto fosas clandestinas, en las afueras de Los Mochis, en el norteño estado de Sinaloa, en México. Los ruidos provienen de grabaciones realizadas durante uno de los trayectos de Las Rastreadoras (febrero 2019). Los estratos de sonidos de V.F[i]n_4 aluden a diferentes momentos de esta expedición. Las voces de las rastreadoras a través de su interacción diaria, sus pasos en el suelo y los sonidos de su principal actividad: cavar en campo abierto para tratar de encontrar los restos de sus seres queridos, víctimas de desaparición forzada.
 
-Phillips, Tom. (6 Jan. 2020). ‘More than 60,000 people are missing amid Mexico’s drug war, official say.’ The Guardian. URL: https://www.theguardian.com/world/2020/jan/06/mexico-drug-war-missing-estimate"
+Phillips, Tom. (6 de enero de 2020). 'Más de 60,000 personas están desaparecidas en medio de la guerra contra las drogas en México, dice un funcionario'. The Guardian. URL: https://www.theguardian.com/world/2020/jan/06/mexico-drug-war-missing-estimate"

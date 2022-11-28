@@ -5,8 +5,8 @@ image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/wh
 video: 
 start: 2000
 end: 2000
-info: "Polycarbonate, lights, aluminum.
-Dimensions: 6’ 6” x 6’ 6” x 6’ 6”."
+info: "Policarbonato, luces, aluminio.
+Dimensiones: 6’ 6” x 6’ 6” x 6’ 6”."
 place: 
 categorys:
  - artworks
@@ -27,7 +27,7 @@ pictures:
  
 ---
 
-Untitled [White] provides an enclosed environment for the individual camouflaged within its structure yet able to maintain awareness of the space outside. Constructed as a circle the structure literally wraps the viewer in light. This piece is not only interested in the physical space but the audible space as well. This is realized in the sound that emanates from the electricity that runs through the neon lights encapsulating the space, and the visitor, with sound.
+Untitled [White] proporciona un entorno cerrado para el individuo camuflado dentro de su estructura pero capaz de mantener la conciencia del espacio exterior. Construida como un círculo, la estructura literalmente envuelve al espectador en luz. Esta pieza no solo se interesa por el espacio físico sino también por el espacio sonoro. Esto se realiza en el sonido que emana de la electricidad que corre a través de las luces de neón encapsulando el espacio y al visitante con sonido.
 
  
 

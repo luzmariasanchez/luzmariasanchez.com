@@ -5,9 +5,9 @@ image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/nr
 video: 
 start: 2004
 end: 2004
-info: "8-channel Sound Installation. 8 amplified speakers, computer, digital interface.
-Dimensions: variable
-Duration: 30 minutes."
+info: "Instalación sonora de 8 canaeles. 8 altavoces amplificados, computadora, interfaz digital.
+Dimensiones: variable
+Duración: 30 minutos."
 place: centro-de-cultura-contemporaneo-de-barcelona
 categorys:
  - artworks
@@ -24,7 +24,7 @@ pictures:
 - https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/nrf_vi01.jpg
 ---
 
-Untitled [Nuweiba Radio Frequencies] is comprised of sounds recorded from various Arab radio stations in the Gulf of Aqaba, Egypt during the last two weeks of March and the first week of April in 2003—the presumed end of the US war against Iraq. As seen in these festival installation shots, this piece was included at “Zeppelin” 7th Sound Art Festival, Others’ sounds – > others’ reasons, Sound psychogeographies, sponsored by the Centro de Cultura Contemporánea de Barcelona, and presented in both Barcelona and Zaragoza, Spain.
+Sin título [Nuweiba Radio Frequencies] se compone de sonidos grabados por varias estaciones de radio árabes en el Golfo de Aqaba, Egipto, durante las dos últimas semanas de marzo y la primera semana de abril de 2003, el presunto final de la guerra de Estados Unidos contra Irak. Como se ve en estas tomas de instalación del festival, esta pieza fue incluida en el 7º Festival de Arte Sonoro “Zeppelin”, Sonidos de otros – > razones de otros, Psicogeografías sonoras, patrocinado por el Centro de Cultura Contemporánea de Barcelona, ​​y presentado tanto en Barcelona como en Zaragoza , España.
 
  
 

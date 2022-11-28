@@ -5,8 +5,8 @@ image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/gr
 video: 
 start: 2000
 end: 2000
-info: "100 plastic bags, 100 wood sticks.
-Dimensions: variable."
+info: "100 bolsas de plástico, 100 palos de madera.
+Dimensiones: variable."
 place: braziers-park
 categorys:
  - artworks
@@ -23,7 +23,7 @@ pictures:
  
 ---
 
-This temporal piece, an intervention in an Oxfordshire field, plays with readymade materials and the spontaneous and transient sounds they generate. With attention to the aesthetic and atmospheric impact of this intervention, one hundred plastic bags, used in England for organic garbage, were attached to wooden sticks of varying heights (40” – 87”), and placed randomly throughout the field. The piece could be taken in as a whole from afar and/or navigated like a maze. Sound was produced through the interaction of the affixed materials and the environment itself generating a range of sounds from wind blowing at and through the plastic bags to the pattering of rain hitting them to a listless quiet when the landscape was still.
+Esta pieza temporal, una intervención en un campo de Oxfordshire, juega con materiales ready-made y los sonidos espontáneos y transitorios que generan. Con atención al impacto estético y atmosférico de esta intervención, cien bolsas de plástico, utilizadas en Inglaterra para la basura orgánica, se unieron a palos de madera de diferentes alturas (40” – 87”) y se colocaron al azar en todo el campo. La pieza podía ser vista como un todo desde lejos y/o navegada como un laberinto. El sonido se produjo a través de la interacción de los materiales adheridos y el entorno en sí mismo, generando una variedad de sonidos, desde el viento que sopla a través de las bolsas de plástico hasta el golpeteo de la lluvia al golpearlas hasta un silencio apático cuando el paisaje estaba quieto.
 
  
 
