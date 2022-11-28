@@ -1,5 +1,6 @@
 ---
 title: Sonar. Navigation // Location of Sound in the Artistic Practices in the 20th Century
+image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/Portada-libro-sonar.jpg
 categorys:
  - publications
 video: https://www.youtube.com/watch?v=NDzv4Hz9WDg

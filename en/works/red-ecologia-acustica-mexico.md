@@ -1,5 +1,6 @@
 ---
 title: Red Ecología Acústica México
+image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/-0RYEZMr_400x400.jpg
 start: 2018
 end: 2022
 place: fonoteca-nacional-mexico

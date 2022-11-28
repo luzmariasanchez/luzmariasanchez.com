@@ -1,5 +1,6 @@
 ---
 title: Artistic practice and communities immersed in search processes for victims of enforced disappearance in Mexico
+image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/Formasderesistencia.jpg
 start: 2020
 categorys:
  - publications

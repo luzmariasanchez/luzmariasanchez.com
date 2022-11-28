@@ -1,5 +1,6 @@
 ---
 title: LASER Talks Mex
+image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/LASER_LaserTalksMex_rgb_600X352.png
 start: 2019
 place: casa-del-tiempo-uam
 categorys:

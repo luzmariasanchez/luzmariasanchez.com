@@ -1,5 +1,6 @@
 ---
 title: "Electronic Samuel Beckett: Cochlear Samuel Beckett"
+image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/Portada_Beckett-coclear-227x300.jpg
 start: 2016
 categorys:
  - publications
