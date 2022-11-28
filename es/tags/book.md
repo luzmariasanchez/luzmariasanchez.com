@@ -1,3 +1,3 @@
 ---
-title: Libro
+title: Book
 ---

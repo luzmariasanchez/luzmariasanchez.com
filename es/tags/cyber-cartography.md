@@ -1,3 +1,3 @@
 ---
-title: Cibercartografía
+title: Cyber-cartography
 ---

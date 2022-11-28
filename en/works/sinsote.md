@@ -27,8 +27,76 @@ pictures:
 
 ---
 
-Detritus is an audiovisual installation by Luz María Sánchez that presents raw data on the 2006-2012 war against drug trafficking in Mexico and its devastating results among civilians. Detritus consist on a large-scale projection of more than 10,862 digital images taken from Mexican national electronic media over the period of 12.11.06-11.30.12. Images are intervened, and then projected in a double large-scale screen, in random sequence, each during a 2 second lapse. The sound component come from a 6 channel installation that captures the violence on the US-MX border employing recordings from police radio frequencies, taken on site in 2005. There is no narrative, but a constant flow of images and sound. There is also a printed database with information related to the media sources. During the last 6 years, Mexican President declared war against drug trafficking. Since then, there have been at least 60,000 civilians dead. Media has been portraying details on this account, cooperating with the normalization of violence as part of the new reality. “Detritus addresses the problem of the disturbance and disruption of the realism of news (either photographs or sound recordings), and the impossibility of understanding the phenomenon of everyday violence within the Mexican society. (…) There is a sense of the impossibility of really comprehending this phenomenon, the impossibility of dealing with it intellectually or emotionally, and the horror of the constancy of death and disfigurement and torture”. Toby Miller.
+SINSONTE Is a Collaborative Socially-Engaged Sonic Art Project. Conceived and produced specifically for South of San Antonio. That uses digital technology to engage communities in the [re]discovery and [re]construction of their surroundings.
 
- 
 
-Luz María Sánchez, Toby Miller.
+Has three fundamental components:
+
+(1) the environment
+
+
+[the landscape, soundscape, the ecological, the surroundings]
+ 
+
+(2) the social
+
+ 
+[community-based, social-engagement, education]
+ 
+
+(3) the technological
+
+
+[sound (re)construction, geo-localization, archive, mobile application]
+ 
+
+ Explores concepts of acoustic ecology and sound practices; employs digital technology for data recording and data transmission; and develops a strong educational and community-based approach.
+
+ 
+In order to facilitate participants [re]cognizing and [re]constructing their surrounding individuals within a community are invited to engage in a series of outdoor activities —sound walking, deep listening, and field recording.
+
+
+Using their personal hardware as recording gear mobile phones as sound recorders— and a dedicated app designed specifically for this project.
+
+
+Wandering through specific urban or rural areas, participants record sounds they find stimulating and thought-provoking.
+
+
+Participants are invited to discover the sonic pulse of their surrounding-space while listening to a final mix of individualized micro-soundscapes.
+
+
+The application is just 30% of the community-engaged art Project, the 70% consists of educational, community-engaged activities.
+
+ 
+
+ 
+
+SINSONTE
+
+ 
+
+ 
+
+Has been made possible as a Land Heritage Institute Climate Change Artist Commission awarded to Luz María Sánchez through support from The Alice Kleberg Reynolds Foundation and the Texas Commission on the Arts.
+
+ 
+
+ 
+
+CREDITS:
+
+Author: Luz María Sánchez.
+
+ 
+
+Curated by Penelope Boyer of Land Heritage Institute and Paula Owen of the Southwest School of Art.
+
+ 
+
+Project Director: Penelope Boyer, Land Heritage Institute | LHI Art-Sci Projects Director.
+
+ 
+
+ 
+
+www.sinsonte-tx.org

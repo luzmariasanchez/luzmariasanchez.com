@@ -1,3 +1,3 @@
 ---
-title: Escultura
+title: Sculpture
 ---

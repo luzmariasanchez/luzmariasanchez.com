@@ -1,5 +1,5 @@
 ---
-title: "The Technological Epiphanies of Samuel Beckett: Machines of Inscription and Audiovisual Manipulation"
+title: "Epifanías Tecnológicas: Samuel Beckett y las máquinas de inscripción y manipulación audiovisual."
 image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/The-Technological-Epiphanies.png
 start: 2016
 place: contemporary-art-university-museum-muac
@@ -16,4 +16,4 @@ pictures:
 
 ---
 
-The Technological Epiphanies of Samuel Beckett: Machines of Inscription and Audiovisual Manipulation.
+Epifanías Tecnológicas: Samuel Beckett y las máquinas de inscripción y manipulación audiovisual.

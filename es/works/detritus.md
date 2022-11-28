@@ -1,16 +1,14 @@
 ---
-offline: true
-private: false
 title: detritus
 description: detritus
 image: 
 video: https://www.youtube.com/watch?v=
 start: 2015
 end: 2022
-info: "Digital Images Projection. Computer, projector.
-Dimensions: variable.
-Duration: undetermined."
-place: template
+info: "Proyección digital de imágenes. Computadora, proyector.
+Dimensiones: variable.
+Duración: variable."
+place:
 categorys:
  - artworks
 tags:
@@ -29,8 +27,8 @@ pictures:
  - https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/vis1-5.jpg
 ---
 
-Detritus is an audiovisual installation by Luz María Sánchez that presents raw data on the 2006-2012 war against drug trafficking in Mexico and its devastating results among civilians. Detritus consist on a large-scale projection of more than 10,862 digital images taken from Mexican national electronic media over the period of 12.11.06-11.30.12. Images are intervened, and then projected in a double large-scale screen, in random sequence, each during a 2 second lapse. The sound component come from a 6 channel installation that captures the violence on the US-MX border employing recordings from police radio frequencies, taken on site in 2005. There is no narrative, but a constant flow of images and sound. There is also a printed database with information related to the media sources. During the last 6 years, Mexican President declared war against drug trafficking. Since then, there have been at least 60,000 civilians dead. Media has been portraying details on this account, cooperating with the normalization of violence as part of the new reality. “Detritus addresses the problem of the disturbance and disruption of the realism of news (either photographs or sound recordings), and the impossibility of understanding the phenomenon of everyday violence within the Mexican society. (…) There is a sense of the impossibility of really comprehending this phenomenon, the impossibility of dealing with it intellectually or emotionally, and the horror of the constancy of death and disfigurement and torture”. Toby Miller.
+Detritus es una instalación audiovisual de Luz María Sánchez que presenta datos en bruto sobre la guerra contra el narcotráfico en México de 2006-2012 y sus devastadores resultados entre la población civil. Detritus consiste en una proyección a gran escala de más de 10,862 imágenes digitales tomadas de medios electrónicos nacionales mexicanos durante el período del 11.12.06 al 30.11.12. Las imágenes son intervenidas y luego proyectadas en una doble pantalla de gran tamaño, en secuencia aleatoria, cada una durante un lapso de 2 segundos. El componente sonoro proviene de una instalación de 6 canales que captura la violencia en la frontera México-Estados Unidos empleando grabaciones de radiofrecuencias policiales, tomadas in situ en 2005. No hay narrativa, sino un flujo constante de imágenes y sonido. También hay una base de datos impresa con información relacionada con las fuentes de los medios. Durante los últimos 6 años, el presidente mexicano le declaró la guerra al narcotráfico. Desde entonces, ha habido al menos 60.000 civiles muertos. Los medios han ido retratando detalles de esta cuenta, cooperando con la normalización de la violencia como parte de la nueva realidad. “Detritus aborda el problema de la perturbación y disrupción del realismo de las noticias (ya sean fotografías o grabaciones sonoras), y la imposibilidad de comprender el fenómeno de la violencia cotidiana en la sociedad mexicana. (…) Hay un sentido de la imposibilidad de comprender realmente este fenómeno, la imposibilidad de tratarlo intelectual o emocionalmente, y el horror de la constancia de la muerte y la desfiguración y la tortura”. Toby Miller.
 
- 
+
 
 Luz María Sánchez, Toby Miller.

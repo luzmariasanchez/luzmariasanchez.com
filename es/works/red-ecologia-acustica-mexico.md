@@ -1,5 +1,6 @@
 ---
 title: Red Ecología Acústica México
+image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/-0RYEZMr_400x400.jpg
 start: 2018
 end: 2022
 place: fonoteca-nacional-mexico
@@ -13,8 +14,8 @@ sponsors:
  - universidad-autonoma-metropolitana
 ---
 
-REA-Mexico is a non-profit organization that represents and promotes Acoustic Ecology in Mexico, in connection with the World Forum on Acoustic Ecology (WFAE).
+REA-México es una organización sin fines de lucro que representa y promueve la Ecología Acústica en México, en conexión con el Foro Mundial de Ecología Acústica (WFAE).
 
-It is a space where all those academics, professionals, creators, students, institutions, companies and organizations in general that have to do in some way with Acoustic Ecology in Mexico and in the world can be integrated, making room for any of its manifestations, as well as to any of the disciplines that are cultivating, promoting or studying it, in order to promote the multidisciplinary development of Acoustic Ecology in Mexico.
+Es un espacio donde pueden integrarse todos aquellos académicos, profesionales, creadores, estudiantes, instituciones, empresas y organizaciones en general que tienen que ver de alguna manera con la Ecología Acústica en México y en el mundo, dando cabida a cualquiera de sus manifestaciones, así como a cualquiera de las disciplinas que la cultiven, promuevan o estudien, con el fin de impulsar el desarrollo multidisciplinario de la Ecología Acústica en México.
 
-We promote an active, purposeful and creative participation of the acoustic community; where courses, congresses, contests, prizes, exhibitions, publications and other possibilities of the same nature related to Acoustic Ecology can be convened, either within the country or abroad.
+Promovemos una participación activa, propositiva y creativa de la comunidad acústica; donde se podrán convocar cursos, congresos, concursos, premios, exposiciones, publicaciones y otras posibilidades de la misma naturaleza relacionadas con la Ecología Acústica, dentro o fuera del país.

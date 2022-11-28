@@ -1,15 +1,13 @@
 ---
-offline: true
-private: false
 title: bajo [tu] clara sombra
 description: bajo [tu] clara sombra
 image: 
 video: 
 start: 2012
 end: 2012
-info: "8-channel Sound Installation.
-Dimensions: variable.
-Duration: undetermined."
+info: "Instalación sonora de 8 canales.
+Dimensiones: variable.
+Duración: undetermined."
 place: 
 - biblioteca-no-videntes
 categorys:
@@ -24,8 +22,8 @@ pictures:
 
 ---
 
-8-channel audio work. Commissioned by Conaculta for the Library of the Blind at Ciudadela: The City of Books. bajo [tu] clara sombra explores the evocative elements of language as a detonator of experiences and fantasies. Far from the repetition, the piece seeks, through certain words, that the listener, which is inherent characteristic is blindness, find these items as highly verbally evocative. The notion of a sound work consisting of words, appealing to a non-cochlear sonic art practice, is at the center of bajo [tu] clara sombra. Seth Kim-Cohen defines it as noise that works linguistically and therefore is read as much as heard, specially in the sense that the non-cochlear sonic art seeks to replace the strength of the sound object, with the discourse of conceptual sonic practice (Kim-Cohen, 2009: 156, 217). The deconstruction of Octavio Paz’s poem Bajo tu clara sombra (1935-1944) is the origin of this 8-channel sound piece. In which nouns were selected, extracted from the original poem, and later on, in a different order, they all were recorded and randomly reproduced. Every noun was numbered, and each number-from a total of 294-substantives, taken at random, were re-organized in a set of 74 nouns for each of the first two channels, and 73 for each of the two second channels, a 4-channel sound piece that duplicates, the same as the space, in the second floor, as a sonic mirror. Thanks to Taller de Arquitectura/Mauricio Rocha, for the documentation of the space at Ciudadela.
+Trabajo de audio de 8 canales. Encargo de Conaculta para la Biblioteca de Ciegos de Ciudadela: La Ciudad de los Libros. bajo [tu] clara sombra explora los elementos evocadores del lenguaje como detonador de experiencias y fantasías. Lejos de la repetición, la pieza busca, a través de ciertas palabras, que el oyente, que es característica inherente a la ceguera, encuentre estos elementos como altamente evocativos verbalmente. La noción de una obra sonora compuesta por palabras, apelando a una práctica artística sonora no coclear, está en el centro de bajo [tu] clara sombra. Seth Kim-Cohen lo define como un ruido que funciona lingüísticamente y por lo tanto se lee tanto como se escucha, especialmente en el sentido de que el arte sonoro no coclear busca reemplazar la fuerza del objeto sonoro, con el discurso de la práctica sonora conceptual (Kim -Cohen, 2009: 156, 217). La deconstrucción del poema de Octavio Paz Bajo tu clara sombra (1935-1944) es el origen de esta pieza sonora de 8 canales. En el que se seleccionaban sustantivos extraídos del poema original, y posteriormente, en diferente orden, se grababan todos y se reproducían aleatoriamente. Cada sustantivo fue numerado, y cada número -de un total de 294- sustantivos, tomados al azar, fueron reorganizados en un conjunto de 74 sustantivos para cada uno de los dos primeros canales, y 73 para cada uno de los dos segundos canales, un Pieza sonora de 4 canales que se duplica, al igual que el espacio, en el segundo piso, a modo de espejo sónico. Gracias a Taller de Arquitectura/Mauricio Rocha, por la documentación del espacio en Ciudadela.
 
- 
+
 
 Luz María Sánchez

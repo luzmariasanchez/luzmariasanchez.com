@@ -1,5 +1,5 @@
 ---
-title: Guest Template
+title: Amanda de la Garza
 from: Mexico
 job: Contemporary Art University Museum MUAC
 ---

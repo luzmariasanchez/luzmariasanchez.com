@@ -1,6 +1,6 @@
 ---
 title: "ISACS17 Resonant Worlds: Sound, Art and Science"
-image: 
+image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/lms-zkm.jpg
 start: 2017
 place: zkm-center-for-art-and-media-karlsruhe
 categorys:
@@ -13,10 +13,10 @@ sponsors:
  - sistema-nacional-de-creadores-de-arte
 ---
 
-ISACS17 (re)investigates the  intersections of sound, art and science from the perspective of artistic / creative curation. The participants are asked to showcase, and reflect on, their own practices from the perspective of how and why choices are made in order to make things »work« – in the sense that it resonates in/with other people, contexts, culture, society, history, and »the world«. These are perhaps issues of (and effects from) embodied experiences, of language games, of existence.
+ISACS17 (re)investiga las intersecciones del sonido, el arte y la ciencia desde la perspectiva de la curaduría artística/creativa. Se pide a los participantes que muestren y reflexionen sobre sus propias prácticas desde la perspectiva de cómo y por qué se toman decisiones para hacer que las cosas "funcionen", en el sentido de que resuena en/con otras personas, contextos, cultura, sociedad. , historia y »el mundo«. Estas son quizás cuestiones de (y efectos de) experiencias encarnadas, de juegos de lenguaje, de existencia.
 
-Sound may reveal the hidden ontologies of things »out there« in the ‘resonant world’, which both art and science are aiming to describe and understand. It is a field which has seen much activity within post-humanism, post-phenomenology and post-positivism. However, these discourses seem far removed from the production and practice of art, where hard choices are made and decisions taken that frame how it embody experience; as well as how it may resonate with other things that »exist« in the world.
+El sonido puede revelar las ontologías ocultas de las cosas "allá afuera" en el "mundo resonante", que tanto el arte como la ciencia pretenden describir y comprender. Es un campo que ha visto mucha actividad dentro del poshumanismo, la posfenomenología y el pospositivismo. Sin embargo, estos discursos parecen muy alejados de la producción y la práctica del arte, donde se toman decisiones difíciles que enmarcan cómo encarna la experiencia; así como también cómo puede resonar con otras cosas que "existen" en el mundo.
 
-This conference seeks to enter into the grey zone(s) of where the production of that »resonance» takes place, through dialogues with people working there; asking some crucial questions about when and in what way the intersections of sound, art and science »works out« – is it based on subjective judgment calls, language games, contextual framings? Do works that ‘work well’ have a resonating quality (embodied, existential, cultural etc?) that we all share, or is the experience of resonance a matter of individual tastes etc?
+Esta conferencia busca entrar en la(s) zona(s) gris(es) de donde se produce la producción de esa »resonancia», a través de diálogos con las personas que trabajan allí; haciendo algunas preguntas cruciales sobre cuándo y de qué manera las intersecciones de sonido, arte y ciencia "funcionan": ¿se basa en juicios subjetivos, juegos de lenguaje, marcos contextuales? ¿Las obras que "funcionan bien" tienen una cualidad resonante (corporizada, existencial, cultural, etc.) que todos compartimos, o la experiencia de la resonancia es una cuestión de gustos individuales, etc.?
 
-We have invited keynotes and accepted papers based on double blind review-process, which all question or experiment with the academic format, such as curator-based research, performative academics, audio papers, and a variety of practice-based formats.
+Hemos invitado a conferencias magistrales y aceptado artículos basados ​​en un proceso de revisión doble ciego, que cuestionan o experimentan con el formato académico, como investigación basada en curadores, académicos performativos, artículos de audio y una variedad de formatos basados ​​en la práctica.

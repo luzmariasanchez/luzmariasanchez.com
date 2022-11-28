@@ -1,5 +1,6 @@
 ---
 title: Artistic practice and communities immersed in search processes for victims of enforced disappearance in Mexico
+image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/Formasderesistencia.jpg
 start: 2020
 categorys:
  - publications
@@ -10,4 +11,4 @@ sponsors:
  - universidad-autonoma-metropolitana
 ---
 
-Chapter in book: Forms of resistance: Seven experiences of listening and protest in artistic practices. This work compiles seven Latin American experiences on the incidence of artistic practices in the context of extreme violence in Mexico, Colombia and Chile. Violence configured by the States and by their absence, challenged from creation, collective testimony, the performative act, listening, virtuality, cultural management and art therapy. These perspectives cohabit the space of doing in art and the exploration of violence and its actors.
+Capítulo de libro: Formas de resistencia: Siete experiencias de escucha y protesta en las prácticas artísticas. Este trabajo recopila siete experiencias latinoamericanas sobre la incidencia de las prácticas artísticas en contextos de extrema violencia en México, Colombia y Chile. La violencia configurada por los Estados y por su ausencia, interpelada desde la creación, el testimonio colectivo, el acto performativo, la escucha, la virtualidad, la gestión cultural y el arteterapia. Estas perspectivas cohabitan el espacio del hacer en el arte y la exploración de la violencia y sus actores.

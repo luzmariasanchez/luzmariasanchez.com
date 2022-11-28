@@ -1,5 +1,6 @@
 ---
 title: Sonar. Navigation // Location of Sound in the Artistic Practices in the 20th Century
+image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/Portada-libro-sonar.jpg
 categorys:
  - publications
 video: https://www.youtube.com/watch?v=NDzv4Hz9WDg
@@ -11,6 +12,6 @@ sponsors:
  - universidad-autonoma-metropolitana
 ---
 
-Reference text, aimed especially at those who are interested in knowing cases in which sound has been used as an artistic tool throughout the 20th century. Luz María Sánchez Cardona presents an approximation text, an instrument approach to those points –selected from a much larger corpus–, where the presence of sound intervened by machines can be appreciated –at the end of the 19th century - and up to the decade from the seventies of the twentieth century.
+Texto de referencia, dirigido especialmente a aquellos que estén interesados ​​en conocer casos en los que se ha utilizado el sonido como herramienta artística a lo largo del siglo XX. Luz María Sánchez Cardona presenta un texto de aproximación, una aproximación instrumental a aquellos puntos –seleccionados de un corpus mucho más amplio–, donde se aprecia la presencia del sonido intervenido por las máquinas –a finales del siglo XIX- y hasta la década de los años setenta del siglo XX.
 
-Sonar. Navigation // Location of Sound in the Artistic Practices in the 20th Century. Mexico City: Universidad Autónoma Metropolitana. Double-blind review. ISBN UAM: 978-607-28-1546-9 ISBN Juan Pablos Editor: 978-607-711-518-2.
+Sonar. Navegación // Ubicación del sonido en las prácticas artísticas del siglo XX. Ciudad de México: Universidad Autónoma Metropolitana. Revisión doble ciego. ISBN UAM: 978-607-28-1546-9 ISBN Juan Pablos Editor: 978-607-711-518-2.

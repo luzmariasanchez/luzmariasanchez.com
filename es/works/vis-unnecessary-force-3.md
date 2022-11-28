@@ -18,6 +18,7 @@ sponsors:
 works:
   - vis-unnecessary-force-1
   - vis-unnecessary-force-4
+  - vis-unnecessary-force-2
 ---
 
 Vis. [un]necessary force_3 or under its acronym V.[u]nf_3, addresses one of the most alarming issues in Mexico: the abduction of young individuals, mostly male, ages 18 to 30, often with the complicity of police/military forces. In 2019 numbers escalated to +60,000 forced-disappearance registered cases. Due to the lack of action of the local/federal authorities, citizens have been organizing themselves to perform independent investigations and on-site searches for their abducted family members. Threatened by cartels and police/military forces alike, these citizens are the only ones that – organized in small groups – are looking for forced-disappearance victims nation-wide.

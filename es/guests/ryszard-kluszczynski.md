@@ -1,5 +1,6 @@
 ---
 title: Ryszard Kluszczyński
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVdCKhhTaCzjY1F4VHSOC_ZPSOOtL7hbkjwVrKxiIu7Q&s
 from: Poland
 job: Lodz University
 ---

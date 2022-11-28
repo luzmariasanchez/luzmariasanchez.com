@@ -1,5 +1,6 @@
 ---
 title: LASER Talks Mex
+image: https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/LASER_LaserTalksMex_rgb_600X352.png
 start: 2019
 place: casa-del-tiempo-uam
 categorys:
@@ -11,6 +12,6 @@ sponsors:
  - universidad-autonoma-metropolitana
 ---
 
-"LASER TALKS MEX will be the first initiative of its kind in Mexico -and in a Spanish-speaking country-. Produced by the Autonomous Metropolitan University [UAM] within the framework of the Arts, Sciences, Humanities and Citizenship [ACHC] project.
+“LASER TALKS MEX será la primera iniciativa de su tipo en México -y en un país de habla hispana-. Producida por la Universidad Autónoma Metropolitana [UAM] en el marco del proyecto Artes, Ciencias, Humanidades y Ciudadanía [ACHC].
 
-Free and open to the public, LASER TALKS MEX seeks to open a node for discussion and dialogue, in which specialists, creators, and the general public find a platform for exchanging knowledge about science and arts within the territory of Mexico City."
+Gratuito y abierto al público, LASER TALKS MEX busca abrir un nodo de discusión y diálogo, en el que especialistas, creadores y público en general encuentren una plataforma de intercambio de conocimientos sobre las ciencias y las artes dentro del territorio de la Ciudad de México”.

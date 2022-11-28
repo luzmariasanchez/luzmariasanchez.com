@@ -1,15 +1,13 @@
 ---
-offline: true
-private: false
 title: Sinsonte
 description: sinsonte
 image: 
 video: 
 start: 2017
 end: 2017
-info: "Bilingual phone application and website.
-Dimensions: variable.
-Duration: undetermined."
+info: "Aplicación de teléfono y página web.
+Dimensiones: variable.
+Duración: indeterminado."
 place: 
 categorys:
  - artworks
@@ -29,8 +27,76 @@ pictures:
 
 ---
 
-Detritus is an audiovisual installation by Luz María Sánchez that presents raw data on the 2006-2012 war against drug trafficking in Mexico and its devastating results among civilians. Detritus consist on a large-scale projection of more than 10,862 digital images taken from Mexican national electronic media over the period of 12.11.06-11.30.12. Images are intervened, and then projected in a double large-scale screen, in random sequence, each during a 2 second lapse. The sound component come from a 6 channel installation that captures the violence on the US-MX border employing recordings from police radio frequencies, taken on site in 2005. There is no narrative, but a constant flow of images and sound. There is also a printed database with information related to the media sources. During the last 6 years, Mexican President declared war against drug trafficking. Since then, there have been at least 60,000 civilians dead. Media has been portraying details on this account, cooperating with the normalization of violence as part of the new reality. “Detritus addresses the problem of the disturbance and disruption of the realism of news (either photographs or sound recordings), and the impossibility of understanding the phenomenon of everyday violence within the Mexican society. (…) There is a sense of the impossibility of really comprehending this phenomenon, the impossibility of dealing with it intellectually or emotionally, and the horror of the constancy of death and disfigurement and torture”. Toby Miller.
+SINSONTE es un proyecto de arte sonoro colaborativo y socialmente comprometido. Concebido y producido específicamente para el Sur de San Antonio. Que utiliza la tecnología digital para involucrar a las comunidades en el [re]descubrimiento y la [re]construcción de su entorno.
 
- 
 
-Luz María Sánchez, Toby Miller.
+Tiene tres componentes fundamentales:
+
+(1) el medio ambiente
+
+
+[el paisaje, el paisaje sonoro, lo ecológico, el entorno]
+ 
+
+(2) lo social
+
+ 
+[basada en la comunidad, participación social, educación]
+ 
+
+(3) la tecnología
+
+
+[(re)construcción de sonido, geolocalización, archivo, aplicación móvil]
+ 
+
+ Explora conceptos de ecología acústica y prácticas de sonido; emplea tecnología digital para el registro y la transmisión de datos; y desarrolla un sólido enfoque educativo y basado en la comunidad.
+
+ 
+Con el fin de facilitar que los participantes [re]conozcan y [re]construyan a los individuos que los rodean dentro de una comunidad, se les invita a participar en una serie de actividades al aire libre: caminatas sonoras, escucha profunda y grabación de campo.
+
+
+Usar su hardware personal como equipo de grabación, teléfonos móviles como grabadoras de sonido y una aplicación dedicada diseñada específicamente para este proyecto.
+
+
+Deambulando por áreas urbanas o rurales específicas, los participantes graban sonidos que encuentran estimulantes y estimulantes.
+
+
+Se invita a los participantes a descubrir el pulso sónico de su espacio circundante mientras escuchan una mezcla final de micropaisajes sonoros individualizados.
+
+
+La aplicación es solo el 30% del proyecto de arte comunitario, el 70% consiste en actividades educativas comunitarias.
+
+ 
+
+ 
+
+SINSONTE
+
+ 
+
+ 
+
+Ha sido posible gracias a la Comisión de Artistas sobre el Cambio Climático del Land Heritage Institute otorgada a Luz María Sánchez con el apoyo de la Fundación Alice Kleberg Reynolds y la Comisión de las Artes de Texas.
+
+ 
+
+ 
+
+CRÉDITOS:
+
+Autora: Luz María Sánchez.
+
+ 
+
+Comisariada por Penelope Boyer del Land Heritage Institute y Paula Owen de la Southwest School of Art.
+
+ 
+
+Directora del proyecto: Penelope Boyer, Land Heritage Institute | Directora de Proyectos Art-Sci de LHI.
+
+ 
+
+ 
+
+www.sinsonte-tx.org

@@ -16,11 +16,15 @@ tags:
  - sound
  - installation
  - sculpture
+
 sponsors:
  - sistema-nacional-de-creadores-de-arte
 works:
+  - vis-unnecessary-force-1.01
+  - vis-unnecessary-force-1_
   - vis-unnecessary-force-3
   - vis-unnecessary-force-4
+  - vis-unnecessary-force-2
 pictures:
  - https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/vis1-2.jpg
  - https://luzmariasanchez.s3.us-east-2.amazonaws.com/work/image/original/vis1-3.jpg

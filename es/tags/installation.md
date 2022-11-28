@@ -1,3 +1,3 @@
 ---
-title: Instalación
+title: Installation
 ---

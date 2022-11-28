@@ -1,3 +1,3 @@
 ---
-title: Arte generativo
+title: Generative art
 ---
