@@ -1,3 +1,0 @@
----
-title: Chapter in Book
----

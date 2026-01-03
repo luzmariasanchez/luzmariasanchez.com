@@ -1,3 +1,0 @@
----
-title: Generative intervened image
----

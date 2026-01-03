@@ -1,3 +1,0 @@
----
-title: Literature Mexican Narrative
----
