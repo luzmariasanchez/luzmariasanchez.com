@@ -1,0 +1,74 @@
+{
+  "common": {
+    "close": "Cerrar",
+    "tags": "Tags",
+    "sort": "Ordenar por",
+    "prev": "Pagina anterior",
+    "next": "Pagina siguiente"
+  },
+  "message": {
+    "empty": "No resultados encontrados",
+    "notFound": "No resultado"
+  },
+  "page": {
+    "search": "Buscar",
+    "events": "Eventos",
+    "bio": "Bio",
+    "contact": "Contacto"
+  },
+  "events": {
+    "upcoming": "Próximas",
+    "current": "Actuales",
+    "past": "Pasadas",
+    "permanent": "Permanentes"
+  },
+  "event": {
+    "to": "Hasta {date}"
+  },
+  "home": {
+    "works": "Explorar PIC"
+  },
+  "search": {
+    "placeholder": "Escriba aquí..."
+  },
+  "content": {
+    "place": "Lugar",
+    "collections": "Colecciones",
+    "commissions": "Comisiones",
+    "grants": "Becas",
+    "guests": "Curadores",
+    "sponsors": "Colaboradores",
+    "prizes": "Premios",
+    "pictures": "Galería",
+    "picture-link": "Abrir enlace",
+    "residencys": "Residencias",
+    "jury": "Jurado",
+    "relateds": "Proyectos relacionados",
+    "link": "Abrir enlace"
+  },
+  "author": {
+    "title": "Luz María Sánchez",
+    "content": "Artista transdisciplinar que explora la esfera política de la violencia y las relaciones de poder a través de construcciones multimedia.",
+    "more": "Leer más",
+    "avatar": "https://luzmariasanchez.s3.us-east-2.amazonaws.com/gallery/image/original/luz-maria.jpg"
+  },
+  "foot": {
+    "title": "Luz María Sánchez",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/luzmariasanchez",
+      "twitter": "https://x.com/luzmariasanchez",
+      "instagram": "https://www.instagram.com/studio_luzmariasanchez/?__d=11",
+      "youtube": "https://www.youtube.com/@luzmariasanchez1346",
+      "academia": "https://uab.academia.edu/LuzMar%C3%ADaS%C3%A1nchezCardona"
+    }
+  },
+  "contact": {
+    "email-label": "Tu correo electrónico:",
+    "email-error": "Oops! Hay un problema con tu correo electrónico.",
+    "message-label": "Tu mensaje:",
+    "message-error": "Oops! Hay un problema con tu mensaje.",
+    "send-label": "Enviar",
+    "send-error": "Oops! Hubo un problema con el envío del mensaje.",
+    "sent": "Tu mensaje ha sido enviado, ¡Hasta pronto!"
+  }
+}
